@@ -1,0 +1,6 @@
+{
+  "name": "PlastiSense - Intelligent Plastic Waste Detection & Action System",
+  "description": "AI-powered plastic waste analysis, polymer identification, health risk assessment, upcycle studio, hotspot forecasting, and circular economy action platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
